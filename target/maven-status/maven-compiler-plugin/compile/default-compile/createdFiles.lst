@@ -1,0 +1,4 @@
+org\acme\dto\PokemonDTO.class
+org\acme\model\Pokemon.class
+org\acme\model\ProcessDate.class
+org\acme\Resources\PokemonResource.class
